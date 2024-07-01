@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g id="Layer_7">
+	<g>
+		<g>
+			<g>
+				<g>
+					<defs>
+						<circle id="SVGID_1_" cx="50" cy="50" r="48.278"/>
+					</defs>
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;fill:#6C00FF;"/>
+					<clipPath id="SVGID_2_">
+						<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+					</clipPath>
+					<rect x="1.722" y="1.722" style="clip-path:url(#SVGID_2_);fill:#6C00FF;" width="96.555" height="96.555"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="48.278"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="45.737"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="43.196"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="40.655"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="38.114"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="35.573"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="33.032"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="30.491"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="27.95"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="25.409"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="22.868"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="20.327"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="17.786"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="15.246"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="12.705"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="10.164"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="7.623"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="5.082"/>
+					<circle style="clip-path:url(#SVGID_2_);fill:#6C00FF;" cx="50" cy="50" r="2.541"/>
+				</g>
+			</g>
+		</g>
+		<path style="fill:#FFFFFF;" d="M42.905,50.018c0,0,2.647-1.059,4.412,0.294c1.765,1.353,4.118,2.824,4,5.824
+			c-0.118,3-3.176,7-7.294,7.647c-4.118,0.647-8.529-1.235-10-6.235c-0.765-3,0.471-4.706,1.059-4.353
+			c0.353,0.882,0.588,2.941,2.176,2.824c1.588-0.118,2.294-1.647,2.765-2.824C40.493,52.018,42.237,50.222,42.905,50.018z"/>
+		<path style="fill:#FFFFFF;" d="M47.846,43.959c0,0-1.353,2.941-0.412,4.706s3.824,3.235,4.647,3.471s3.353,0.529,5.353-2.059
+			S66.022,34.9,66.022,34.9s0.647-2-1.765-3.529c-1.294-0.706-2.824-0.412-3.471,0C60.14,31.783,52.081,38.489,47.846,43.959z"/>
+	</g>
+</g>
+<g id="Layer_1">
+</g>
+</svg>

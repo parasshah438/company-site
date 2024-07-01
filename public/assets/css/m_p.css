@@ -1,0 +1,996 @@
+/*--------------------------------------------------------------
+# Margin-padding Short Class
+--------------------------------------------------------------*/
+
+.m0 {
+    margin: 0px;
+}
+
+.m5 {
+    margin: 5px;
+}
+
+.m10 {
+    margin: 10px;
+}
+
+.m15 {
+    margin: 15px;
+}
+
+.m20 {
+    margin: 20px;
+}
+
+.m25 {
+    margin: 25px;
+}
+
+.m30 {
+    margin: 30px;
+}
+
+.m35 {
+    margin: 35px;
+}
+
+.m40 {
+    margin: 40px;
+}
+
+.m45 {
+    margin: 45px;
+}
+
+.m50 {
+    margin: 50px;
+}
+
+.p0 {
+    padding: 0px;
+}
+
+.p5 {
+    padding: 5px;
+}
+
+.p10 {
+    padding: 10px;
+}
+
+.p15 {
+    padding: 15px;
+}
+
+.p20 {
+    padding: 20px;
+}
+
+.p25 {
+    padding: 25px;
+}
+
+.p30 {
+    padding: 30px;
+}
+
+.p35 {
+    padding: 35px;
+}
+
+.p40 {
+    padding: 40px;
+}
+
+.p45 {
+    padding: 45px;
+}
+
+.p50 {
+    padding: 50px;
+}
+
+.m-r-0 {
+    margin-right: 0px;
+}
+
+.m-r-5 {
+    margin-right: 5px;
+}
+
+.m-r-10 {
+    margin-right: 10px;
+}
+
+.m-r-15 {
+    margin-right: 15px;
+}
+
+.m-r-20 {
+    margin-right: 20px;
+}
+
+.m-r-25 {
+    margin-right: 25px;
+}
+
+.m-r-30 {
+    margin-right: 30px;
+}
+
+.m-r-35 {
+    margin-right: 35px;
+}
+
+.m-r-40 {
+    margin-right: 40px;
+}
+
+.m-r-45 {
+    margin-right: 45px;
+}
+
+.m-r-50 {
+    margin-right: 50px;
+}
+
+.m-t-0 {
+    margin-top: 0px;
+}
+
+.m-t-5 {
+    margin-top: 5px;
+}
+
+.m-t-10 {
+    margin-top: 10px;
+}
+
+.m-t-15 {
+    margin-top: 15px;
+}
+
+.m-t-20 {
+    margin-top: 20px;
+}
+
+.m-t-25 {
+    margin-top: 25px;
+}
+
+.m-t-30 {
+    margin-top: 30px;
+}
+
+.m-t-35 {
+    margin-top: 35px;
+}
+
+.m-t-40 {
+    margin-top: 40px;
+}
+
+.m-t-45 {
+    margin-top: 45px;
+}
+
+.m-t-50 {
+    margin-top: 50px;
+}
+
+.m-l-0 {
+    margin-left: 0px;
+}
+
+.m-l-5 {
+    margin-left: 5px;
+}
+
+.m-l-10 {
+    margin-left: 10px;
+}
+
+.m-l-15 {
+    margin-left: 15px;
+}
+
+.m-l-20 {
+    margin-left: 20px;
+}
+
+.m-l-25 {
+    margin-left: 25px;
+}
+
+.m-l-30 {
+    margin-left: 30px;
+}
+
+.m-l-35 {
+    margin-left: 35px;
+}
+
+.m-l-40 {
+    margin-left: 40px;
+}
+
+.m-l-45 {
+    margin-left: 45px;
+}
+
+.m-l-50 {
+    margin-left: 50px;
+}
+
+
+.m-b-0 {
+    margin-bottom: 0px;
+}
+
+.m-b-5 {
+    margin-bottom: 5px;
+}
+
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.m-b-15 {
+    margin-bottom: 15px;
+}
+
+.m-b-20 {
+    margin-bottom: 20px;
+}
+
+.m-b-25 {
+    margin-bottom: 25px;
+}
+
+.m-b-30 {
+    margin-bottom: 30px;
+}
+
+.m-b-35 {
+    margin-bottom: 35px;
+}
+
+.m-b-40 {
+    margin-bottom: 40px;
+}
+
+.m-b-45 {
+    margin-bottom: 45px;
+}
+
+.m-b-50 {
+    margin-bottom: 50px;
+}
+
+
+.p-r-0 {
+    padding-right: 0px;
+}
+
+.p-r-5 {
+    padding-right: 5px;
+}
+
+.p-r-10 {
+    padding-right: 10px;
+}
+
+.p-r-15 {
+    padding-right: 15px;
+}
+
+.p-r-20 {
+    padding-right: 20px !important;
+}
+
+.p-r-25 {
+    padding-right: 25px;
+}
+
+.p-r-30 {
+    padding-right: 30px;
+}
+
+.p-r-35 {
+    padding-right: 35px;
+}
+
+.p-r-40 {
+    padding-right: 40px;
+}
+
+.p-r-45 {
+    padding-right: 45px;
+}
+
+.p-r-50 {
+    padding-right: 50px;
+}
+
+.p-t-0 {
+    padding-top: 0px !important;
+}
+
+.p-t-5 {
+    padding-top: 5px;
+}
+
+.p-t-10 {
+    padding-top: 10px;
+}
+
+.p-t-15 {
+    padding-top: 15px;
+}
+
+.p-t-20 {
+    padding-top: 20px;
+}
+
+.p-t-25 {
+    padding-top: 25px;
+}
+
+.p-t-30 {
+    padding-top: 30px;
+}
+
+.p-t-35 {
+    padding-top: 35px;
+}
+
+.p-t-40 {
+    padding-top: 40px;
+}
+
+.p-t-45 {
+    padding-top: 45px;
+}
+
+.p-t-50 {
+    padding-top: 50px;
+}
+
+.p-l-0 {
+    padding-left: 0px;
+}
+
+.p-l-5 {
+    padding-left: 5px;
+}
+
+.p-l-10 {
+    padding-left: 10px;
+}
+
+.p-l-15 {
+    padding-left: 15px;
+}
+
+.p-l-20 {
+    padding-left: 20px !important;
+}
+
+.p-l-25 {
+    padding-left: 25px;
+}
+
+.p-l-30 {
+    padding-left: 30px;
+}
+
+.p-l-35 {
+    padding-left: 35px;
+}
+
+.p-l-40 {
+    padding-left: 40px;
+}
+
+.p-l-45 {
+    padding-left: 45px;
+}
+
+.p-l-50 {
+    padding-left: 50px;
+}
+
+.p-b-0 {
+    padding-bottom: 0px;
+}
+
+.p-b-5 {
+    padding-bottom: 5px;
+}
+
+.p-b-10 {
+    padding-bottom: 10px;
+}
+
+.p-b-15 {
+    padding-bottom: 15px;
+}
+
+.p-b-20 {
+    padding-bottom: 20px;
+}
+
+.p-b-25 {
+    padding-bottom: 25px;
+}
+
+.p-b-30 {
+    padding-bottom: 30px;
+}
+
+.p-b-35 {
+    padding-bottom: 35px;
+}
+
+.p-b-40 {
+    padding-bottom: 40px;
+}
+
+.p-b-45 {
+    padding-bottom: 45px;
+}
+
+.p-b-50 {
+    padding-bottom: 50px;
+}
+
+.p-r-150 {
+    padding-right: 350px;
+}
+
+.p-l-150 {
+    padding-left: 350px;
+}
+
+.p-l-75 {
+    padding-left: 75px;
+}
+
+.p-r-75 {
+    padding-left: 75px;
+}
+
+.p-t-75 {
+    padding-top: 75px;
+}
+
+
+/* SVG Responsive */
+
+@media (max-width: 319.98px) {
+    .xxs-img-10 {
+        max-width: 10%;
+    }
+    .xxs-img-15 {
+        max-width: 15%;
+    }
+    .xxs-img-20 {
+        max-width: 20%;
+    }
+    .xxs-img-25 {
+        max-width: 25%;
+    }
+    .xxs-img-30 {
+        max-width: 30%;
+    }
+    .xxs-img-35 {
+        max-width: 35%;
+    }
+    .xxs-img-40 {
+        max-width: 40%;
+    }
+    .xxs-img-45 {
+        max-width: 45%;
+    }
+    .xxs-img-50 {
+        max-width: 50%;
+    }
+    .xxs-img-55 {
+        max-width: 55%;
+    }
+    .xxs-img-60 {
+        max-width: 60%;
+    }
+    .xxs-img-65 {
+        max-width: 65%;
+    }
+    .xxs-img-70 {
+        max-width: 70%;
+    }
+    .xxs-img-75 {
+        max-width: 75%;
+    }
+    .xxs-img-80 {
+        max-width: 80%;
+    }
+    .xxs-img-85 {
+        max-width: 85%;
+    }
+    .xxs-img-90 {
+        max-width: 90%;
+    }
+    .xxs-img-95 {
+        max-width: 95%;
+    }
+    .xxs-img-100 {
+        max-width: 100%;
+    }
+    .employees_services .employee-box img{
+        max-width: 65%;
+    }
+    .feature_rich .media img{
+        max-width: 65px;
+    }
+    .career.employees .employee-box img{
+        max-width: 110px;
+    }
+    .dev_attractive .media img{
+        max-width: 65px;
+    }
+    .ios_ecosys .icon-box img{
+        max-width: 200px;
+    }
+    .ios_ecosys.platform .icon-box img{
+        max-width: 130px;
+    }
+    .features .icon-box img{
+        max-width: 130px;
+    }
+}
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .xs-img-10 {
+        max-width: 10%;
+    }
+    .xs-img-15 {
+        max-width: 15%;
+    }
+    .xs-img-20 {
+        max-width: 20%;
+    }
+    .xs-img-25 {
+        max-width: 25%;
+    }
+    .xs-img-30 {
+        max-width: 30%;
+    }
+    .xs-img-35 {
+        max-width: 35%;
+    }
+    .xs-img-40 {
+        max-width: 40%;
+    }
+    .xs-img-45 {
+        max-width: 45%;
+    }
+    .xs-img-50 {
+        max-width: 50%;
+    }
+    .xs-img-55 {
+        max-width: 55%;
+    }
+    .xs-img-60 {
+        max-width: 60%;
+    }
+    .xs-img-65 {
+        max-width: 65%;
+    }
+    .xs-img-70 {
+        max-width: 70%;
+    }
+    .xs-img-75 {
+        max-width: 75%;
+    }
+    .xs-img-80 {
+        max-width: 80%;
+    }
+    .xs-img-85 {
+        max-width: 85%;
+    }
+    .xs-img-90 {
+        max-width: 90%;
+    }
+    .xs-img-95 {
+        max-width: 95%;
+    }
+    .xs-img-100 {
+        max-width: 100%;
+    }
+    .employees_services .employee-box img{
+        max-width: 65%;
+    }
+    .feature_rich .media img{
+        max-width: 70px;
+    }
+    .career.employees .employee-box img{
+        max-width: 120px;
+    }
+    .dev_attractive .media img{
+        max-width: 70px;
+    }
+    .ios_ecosys .icon-box img{
+        max-width: 150px;
+    }
+    .ios_ecosys.platform .icon-box img{
+        max-width: 140px;
+    }
+    .career.employees.hire .employee-box img{
+        max-width: 120px;
+    }
+    .features .icon-box img{
+        max-width: 160px;
+    }
+    .features .b-r-1.b-r-unsets{
+        border: unset;
+    }
+    .features h3 {
+        font-size: 15px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .sm-img-10 {
+        max-width: 10%;
+    }
+    .sm-img-15 {
+        max-width: 15%;
+    }
+    .sm-img-20 {
+        max-width: 20%;
+    }
+    .sm-img-25 {
+            max-width: 25%;
+        }
+    .sm-img-30 {
+        max-width: 30%;
+    }
+    .sm-img-35 {
+        max-width: 35%;
+    }
+    .sm-img-40 {
+        max-width: 40%;
+    }
+    .sm-img-45 {
+        max-width: 45%;
+    }
+    .sm-img-50 {
+        max-width: 50%;
+    }
+    .sm-img-55 {
+        max-width: 55%;
+    }
+    .sm-img-60 {
+        max-width: 60%;
+    }
+    .sm-img-65 {
+        max-width: 65%;
+    }
+    .sm-img-70 {
+        max-width: 70%;
+    }
+    .sm-img-75 {
+        max-width: 75%;
+    }
+    .sm-img-80 {
+        max-width: 80%;
+    }
+    .sm-img-85 {
+        max-width: 85%;
+    }
+    .sm-img-90 {
+        max-width: 90%;
+    }
+    .sm-img-95 {
+        max-width: 95%;
+    }
+    .sm-img-100 {
+        max-width: 100%;
+    }
+    .employees_services .employee-box img{
+        max-width: 80%;
+    }
+    .feature_rich .media img{
+        max-width: 80px;
+    }
+    .career.employees .employee-box img{
+        max-width: 130px;
+    }
+    .dev_attractive .media img{
+        max-width: 80px;
+    }
+    .ios_ecosys .icon-box img{
+        max-width: 175px;
+    }
+    .ios_ecosys.platform .icon-box img{
+        max-width: 140px;
+    }
+    .career.employees.hire .employee-box img{
+        max-width: 120px;
+    }
+    .features .icon-box img{
+        max-width: 160px;
+    }
+    .features .b-r-1.b-r-unsets{
+        border: unset;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .md-img-10 {
+        max-width: 10%;
+    }
+    .md-img-15 {
+        max-width: 15%;
+    }
+    .md-img-20 {
+        max-width: 20%;
+    }
+    .md-img-25 {
+        max-width: 25%;
+    }
+    .md-img-30 {
+        max-width: 30%;
+    }
+    .md-img-35 {
+        max-width: 35%;
+    }
+    .md-img-40 {
+        max-width: 40%;
+    }
+    .md-img-45 {
+        max-width: 45%;
+    }
+    .md-img-50 {
+        max-width: 50%;
+    }
+    .md-img-55 {
+        max-width: 55%;
+    }
+    .md-img-60 {
+        max-width: 60%;
+    }
+    .md-img-65 {
+        max-width: 65%;
+    }
+    .md-img-70 {
+        max-width: 70%;
+    }
+    .md-img-75 {
+        max-width: 75%;
+    }
+    .md-img-80 {
+        max-width: 80%;
+    }
+    .md-img-85 {
+        max-width: 85%;
+    }
+    .md-img-90 {
+        max-width: 90%;
+    }
+    .md-img-95 {
+        max-width: 95%;
+    }
+    .md-img-100 {
+        max-width: 100%;
+    }
+    .employees_services .employee-box img{
+        max-width: 90%;
+    }
+    .feature_rich .media img{
+        max-width: 80px;
+    }
+    .career.employees .employee-box img{
+        max-width: 140px;
+    }
+    .dev_attractive .media img{
+        max-width: 80px;
+    }
+    .ios_ecosys .icon-box img{
+        max-width: 180px;
+    }
+    .ios_ecosys.platform .icon-box img{
+        max-width: 140px;
+    }
+    .career.employees.hire .employee-box img{
+        max-width: 120px;
+    }
+    .cur_opening.hire .media img{
+        max-width: 35px;
+    }
+    .features .icon-box img{
+        max-width: 160px;
+    }
+    .features .b-r-1.b-r-unset{
+        border: unset;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .lg-img-10 {
+        max-width: 10%;
+    }
+    .lg-img-12 {
+        max-width: 12%;
+    }
+    .lg-img-15 {
+        max-width: 15%;
+    }
+    .lg-img-20 {
+        max-width: 20%;
+    }
+    .lg-img-25 {
+        max-width: 25%;
+    }
+    .lg-img-30 {
+        max-width: 30%;
+    }
+    .lg-img-35 {
+        max-width: 35%;
+    }
+    .lg-img-40 {
+        max-width: 40%;
+    }
+    .lg-img-45 {
+        max-width: 45%;
+    }
+    .lg-img-50 {
+        max-width: 50%;
+    }
+    .lg-img-55 {
+        max-width: 55%;
+    }
+    .lg-img-60 {
+        max-width: 60%;
+    }
+    .lg-img-65 {
+        max-width: 65%;
+    }
+    .lg-img-70 {
+        max-width: 70%;
+    }
+    .lg-img-75 {
+        max-width: 75%;
+    }
+    .lg-img-80 {
+        max-width: 80%;
+    }
+    .lg-img-85 {
+        max-width: 85%;
+    }
+    .lg-img-90 {
+        max-width: 90%;
+    }
+    .lg-img-95 {
+        max-width: 95%;
+    }
+    .lg-img-100 {
+        max-width: 100%;
+    }
+    .employees_services .employee-box img{
+        max-width: 70%;
+    }
+    .feature_rich .media img{
+        max-width: 80px;
+    }
+    .career.employees .employee-box img{
+        max-width: 140px;
+    }
+    .dev_attractive .media img{
+        max-width: 80px;
+    }
+    .ios_ecosys .icon-box img{
+        max-width: 200px;
+    }
+    .ios_ecosys.platform .icon-box img{
+        max-width: 140px;
+    }
+    .career.employees.hire .employee-box img{
+        max-width: 120px;
+    }
+    .cur_opening.hire .media img{
+        max-width: 35px;
+    }
+    .features .icon-box img{
+        max-width: 180px;
+    }
+    .features .b-r-1.b-r-unset{
+        border: unset;
+    }
+}
+@media (min-width: 1200px){
+    .xl-img-10 {
+        max-width: 10%;
+    }
+    .xl-img-12 {
+        max-width: 12%;
+    }
+    .xl-img-15 {
+        max-width: 15%;
+    }
+    .xl-img-20 {
+        max-width: 20%;
+    }
+    .xl-img-25 {
+        max-width: 25%;
+    }
+    .xl-img-30 {
+        max-width: 30%;
+    }
+    .xl-img-35 {
+        max-width: 35%;
+    }
+    .xl-img-40 {
+        max-width: 40%;
+    }
+    .xl-img-45 {
+        max-width: 45%;
+    }
+    .xl-img-50 {
+        max-width: 50%;
+    }
+    .xl-img-55 {
+        max-width: 55%;
+    }
+    .xl-img-60 {
+        max-width: 60%;
+    }
+    .xl-img-65 {
+        max-width: 65%;
+    }
+    .xl-img-70 {
+        max-width: 70%;
+    }
+    .xl-img-75 {
+        max-width: 75%;
+    }
+    .xl-img-80 {
+        max-width: 80%;
+    }
+    .xl-img-85 {
+        max-width: 85%;
+    }
+    .xl-img-90 {
+        max-width: 90%;
+    }
+    .xl-img-95 {
+        max-width: 95%;
+    }
+    .xl-img-100 {
+        max-width: 100%;
+    }
+
+    .employees_services .employee-box img{
+        max-width: 70%;
+    }
+    .feature_rich .media img{
+        max-width: 85px;
+    }
+    .career.employees .employee-box img{
+        max-width: 140px;
+    }
+    .dev_attractive .media img{
+        max-width: 85px;
+    }
+    .ios_ecosys .icon-box img{
+        max-width: 200px;
+    }
+    .ios_ecosys.platform .icon-box img{
+        max-width: 140px;
+    }
+    .career.employees.hire .employee-box img{
+        max-width: 110px;
+    }
+    .cur_opening.hire .media img{
+        max-width: 40px;
+    }
+    .features .icon-box img{
+        max-width: 180px;
+    }
+}

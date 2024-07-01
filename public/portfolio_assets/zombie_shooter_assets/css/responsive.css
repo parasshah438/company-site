@@ -1,0 +1,327 @@
+
+@media (max-width: 1200px){
+    .nav-menu a{
+        font-size: 18px;
+        padding: 0px;
+    }
+
+    #hero{
+        padding: 200px 0px;
+    }
+
+    #hero h3{
+        font-size: 35px;
+    }
+
+    #hero .hero-text{
+        width: 100%;
+    }
+
+    #hero h1 {
+        font-size: 5rem;
+    }
+
+    .about .about-top p{
+        width: 90%;
+        font-size: 22px;
+    }
+
+    .about .about-bottom .about-box .img-box {
+        padding: 80px 20px;
+    }
+
+    .about .about-bottom .about-box .img-box h3 {
+        font-size: 22px;
+    }
+
+    .section-title h2{
+        font-size: 45px;
+    }
+
+    .section-title p{
+        font-size: 20px;
+    }
+
+    .section-title h2:after {
+        left: 38.5%;
+    }
+
+    .team .team-box .img-box{
+        padding: 20px;
+    }
+
+    .team .team-box .img-box h3{
+        font-size: 18px;
+    }
+
+    section{
+        padding: 60px 0px;
+    }
+
+}
+
+
+
+
+@media (max-width: 991px){
+
+    #hero{
+        padding: 180px 0px;
+    }
+
+    #hero h3{
+        font-size: 30px;
+    }
+
+    #hero h1 {
+        font-size: 4.5rem;
+    }
+
+    #hero a img{
+        width: 170px;
+    }
+
+    .about .about-top p{
+        width: 100%;
+        font-size: 20px;
+    }
+
+    .section-title p{
+        width: 70%;
+    }
+
+    .section-title h2:after {
+        left: 34.5%;
+    }
+
+    .footer .footer-contact{
+        margin-top: 40px;
+    }
+
+    section{
+        padding: 50px 0px;
+    }
+
+   
+}
+
+
+
+
+@media (max-width: 767px){
+
+    #hero{
+        padding: 150px 0px;
+    }
+
+    #hero h3{
+        font-size: 25px;
+    }
+
+    #hero h1 {
+        font-size: 4rem;
+    }
+
+    .about .about-top img{
+        width: 75%;
+    }
+
+    .about .about-top p{
+        font-size: 18px;
+    }
+    
+    .aboutleftani{
+        display: none;
+    }
+
+    .aboutrightani{
+        display: none;
+    }
+
+    .section-title h2{
+        font-size: 40px;
+    }
+
+    .section-title p{
+        width: 80%;
+        font-size: 18px;
+    }
+
+    .section-title h2:after {
+        left: 29.5%;
+        transform: scale(0.9);
+    }
+
+    .team .team-box .img-box h3{
+        font-size: 15px;
+    }
+
+    .team .team-box .img-box img{
+        width: 30%;
+    }
+
+    .features .feat-box .img-box h5{
+        font-size: 16px;
+    }
+
+    section{
+        padding: 40px 0px;
+    }
+
+
+}
+
+
+
+@media (max-width: 575.98px){
+
+    #header {
+        top: 10px;
+    }
+
+    #header .logo img {
+        width: 180px;
+    }
+
+    #hero{
+        padding: 120px 0px;
+    }
+
+    #hero .hero-text{
+        text-align: center;
+    }
+
+    #hero h3{
+        font-size: 15px;
+    }
+
+    #hero h1 {
+        font-size: 2.5rem;
+    }
+
+    #hero a img{
+        width: 130px;
+    }
+
+    .about .about-top p{
+        font-size: 16px;
+    }
+
+    .about .about-bottom .about-box .img-box h3 {
+        font-size: 18px;
+    }
+
+    .section-title h2:after {
+        display: none;
+    }
+
+    .section-title h2{
+        padding-bottom: 0px;
+    }
+
+    .section-title p {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    .team .team-box .img-box{
+        justify-content: center;
+    }
+
+    .team .team-box .img-box h3{
+        font-size: 14px;
+    }
+
+    .team .team-box .img-box img{
+        width: auto;
+    }
+
+    .footer .footer_mobile h2{
+        font-size: 28px;
+    }
+
+    .footer .footer-top ul li{
+        font-size: 20px;
+    }
+
+    .footer .footer-top ul{
+        flex-wrap: wrap;
+    }
+    
+    .footer .footer-top p{
+        font-size: 15px;
+    }
+
+    #footer .media-body {
+        font-size: 15px;
+    }
+
+    .footer .footer-top .social-links{
+        margin: 10px 0px;
+    }
+
+    .footer .footer_bottom p{
+        font-size: 15px;
+    }
+
+    .footer .footer-top .social-links a i{
+        margin-right: 20px;
+        font-size: 35px;
+    }
+
+    section{
+        padding: 30px 0px;
+    }
+
+    .section-title{
+        margin-bottom: 15px;
+    }
+
+    
+}
+
+
+
+
+@media (max-width: 425px){
+
+    .section-title h2{
+        font-size: 35px;
+    }
+
+    .section-title p {
+        width: 100%;
+        font-size: 15px;
+    }
+
+    .features .feat-box .img-box{
+        padding: 0px;
+    }
+
+    .features .feat-box .img-box h5{
+        font-size: 13px;
+    }
+
+    .footer .logo img{
+        width: 250px
+    }
+
+    .footer .footer-top .social-links{
+        text-align: center;
+    }
+
+    .footer .footer-newsletter{
+        padding: 50px;
+    }
+
+}
+
+
+
+
+@media (max-width: 320px) {
+
+    #hero a img{
+        width: 100px;
+    }
+}

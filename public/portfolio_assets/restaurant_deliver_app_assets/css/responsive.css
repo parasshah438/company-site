@@ -1,0 +1,439 @@
+/* ipad Pro */
+@media (max-width: 1339px){
+
+    .btnmain-food {
+        font-size: 1.5rem;
+        padding: 10px 50px;
+        border-radius: 10px;
+    }
+
+    .section-title h2 {
+        font-size: 40px;
+    }
+
+    .section-title {
+        padding-bottom: 30px;
+    }
+
+    .section-title p{
+        font-size: 20px;
+        margin-top: 30px;
+    }
+
+    #hero {
+        padding-top: 100px;
+        padding-bottom: 150px;
+    }
+
+    #hero h1 {
+        font-size: 40px;
+        margin-bottom: 2rem;
+    }
+
+    br {
+        display: none;
+    }
+
+    .team h3 {
+        font-size: 21px;
+        line-height: 30px;
+        margin-left: 15px;
+    }
+
+    #hero .ani-left {
+        position: absolute;
+        top: 22%;
+        left: -25%;
+    }
+
+    #hero .ani-up {
+        position: absolute;
+        bottom: 9%;
+        right: -5%;
+    }
+
+    .about{
+        border-top-left-radius: 150px;
+        border-top-right-radius: 150px;
+        margin-top: -150px;
+    }
+
+    .about .card-box {
+        padding: 20px;
+        padding-bottom: 0px;
+    }
+
+    .about .card-box h3 {
+        font-size: 20px;
+        margin-top: 30px;
+    }
+
+    .about .card-box .icon-box{
+        padding: 40px;
+        border-radius: 10px;
+    }
+
+    .info .content{
+        font-size: 20px;
+    }
+
+    .info .content i{
+        font-size: 2rem;
+    }
+
+    .need .needbox{
+        padding: 40px 0px;
+        padding-top: 30px;
+    }
+
+    .need .needbox h3{
+        font-size: 1.3rem;
+        padding: 0px 40px;
+    }
+
+    .need .needbox ul{
+        padding-top: 50px; 
+    }
+
+    .need .needbox ul li{
+        padding-top: 30px;
+        font-size: 13px;
+    }
+
+    .features .card-box{
+        padding: 20px 10px;
+    }
+
+    .features .card-box h3{
+        color: #fff;
+        height: 100px;
+        font-weight: 500;
+        font-size: 1.5rem
+    }
+
+    .features .card-box p{
+        color: #7e7e7e;
+        font-size: 18px;
+        margin-top: 75px;
+    }
+
+    .portfolio .icon-box h3{
+        font-size: 16px;
+    }
+
+    .provide .content p{
+        font-size: 1.5rem;
+    }
+
+    #footer {
+        position: relative;
+        background-color: #17628e;
+        color: #ffffff;
+    }
+}
+
+@media (max-width: 991px){
+
+    br {
+        display: none;
+    }
+
+    .btnmain-food {
+        font-size: 1.2rem;
+        padding: 10px 40px;
+        border-radius: 10px;
+    }
+
+    .section-title h2 {
+        font-size: 35px;
+    }
+
+    .section-title {
+        padding-bottom: 20px;
+    }
+
+    .section-title p{
+        font-size: 17px;
+        margin-top: 20px;
+    }
+
+    #hero h1 {
+        font-size: 30px;
+        margin-bottom: 1rem;
+    }
+
+    .team h3 {
+        font-size: 21px;
+        line-height: 30px;
+        margin-left: 15px;
+    }
+
+    #hero .ani-left {
+        position: absolute;
+        top: 21%;
+        left: -32%;
+    }
+
+    #hero .ani-up {
+        position: absolute;
+        bottom: 9%;
+        right: -15%;
+    }
+
+    .about{
+        border-top-left-radius: 100px;
+        border-top-right-radius: 100px;
+        margin-top: -100px;
+    }
+
+    .info .content{
+        font-size: 17px;
+    }
+
+    .info .content i{
+        font-size: 1.6rem;
+    }
+
+    .provide .content p{
+        font-size: 1.2rem;
+    }
+
+    #footer .footer_mobile {
+        margin: 2rem 0 0;
+        padding: 0;
+    }
+
+}
+
+/* ipad */
+@media (max-width: 767px){
+    section {
+        padding: 40px 0;
+        overflow: hidden;
+    }
+
+    #hero br {
+        display: none;
+    }
+
+    .btnmain-food {
+        font-size: 1rem;
+        padding: 8px 30px;
+        border-radius: 10px;
+    }
+
+    #hero h1 {
+        font-size: 30px;
+        margin-bottom: 1rem;
+    }
+
+    #hero img {
+        max-width: 70%;
+    }
+
+    .section-title h2 {
+        font-size: 24px;
+    }
+
+    .section-title {
+        padding-bottom: 15px;
+    }
+
+    .section-title p{
+        font-size: 15px;
+        margin-top: 15px;
+    }
+
+    .team h3 {
+        font-size: 23px;
+    }
+
+    .info .content h3 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+    #hero .ani-left {
+        display: none;
+    }
+
+    #hero .ani-up {
+        display: none;
+    }
+
+    .about{
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+        margin-top: -50px;
+    }
+
+    .mobile_br br {
+        display: none;
+    }
+
+    .content.icon-boxes {
+        padding: 0;
+    }
+
+
+    #footer .footer_mobile {
+        margin: 2rem 0 0;
+        padding: 0;
+    }
+
+    .info .content{
+        font-size: 15px;
+    }
+
+    .info .content i{
+        font-size: 1.5rem;
+    }
+
+    .need .needbox h3{
+        font-size: 1.35rem;
+        padding: 0px 50px;
+    }
+
+    .provide .content p{
+        font-size: 1rem;
+    }
+
+    #footer .footer_mobile {
+        margin: 2rem 0 0;
+        padding: 0;
+    }
+
+}
+
+@media (max-width: 575.98px){
+
+    #header .logo img {
+        width: 180px;
+    }
+
+
+    .need .col-lg-3{
+        margin-bottom: 0px;
+    }
+}
+
+@media (max-width: 425px){
+
+    #header{
+        top: 10px;
+    }
+
+    section {
+        padding: 30px 0;
+        overflow: hidden;
+    }
+
+    .btnmain-food {
+        font-size: 1rem;
+        padding: 10px 40px;
+        border-radius: 10px;
+    }
+
+    .section-title h2 {
+        font-size: 22   px;
+    }
+
+    .section-title {
+        padding-bottom: 12px;
+    }
+
+    .section-title p{
+        font-size: 15px;
+        margin-top: 12px;
+    }
+
+    #hero h1 {
+        font-size: 24px;
+        margin-bottom: 1rem;
+    }
+
+    .hero-right {
+        text-align: center;
+    }
+
+    #hero br {
+        display: none;
+    }
+
+    #hero {
+        padding: 100px 0 50px;
+    }
+
+    .about{
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        margin-top: -20px;
+    }
+
+    .about .card-box h3{
+        font-size: 18px;
+        margin-top: 25px;
+    }
+
+    .shape_right_1,
+    .shape_left_2,
+    .shape_right_3,
+    .shape_left_4 {
+        display: none;
+    }
+
+    #hero img {
+        max-width: 60%;
+    }
+
+    .team h3 {
+        font-size: 23px;
+    }
+
+    .info .content{
+        font-size: 15px;
+    }
+
+    .info .content i{
+        font-size: 1.1rem;
+    }
+
+    #hero .ani-left {
+        display: none;
+    }
+
+    #hero .ani-up {
+        display: none;
+    }
+
+    .need .needbox{
+        padding: 40px 0px;
+        padding-bottom: 30px;
+    }
+
+    .need .needbox h3{
+        font-size: 1rem;
+        padding: 0px 0px;
+    }
+
+    .need .needbox ul{
+        padding-top: 50px; 
+    }
+
+    .need .needbox ul li{
+        padding-top: 15px;
+        font-size: 13px;
+    }
+
+    .portfolio .icon-box h3{
+        font-size: 15px;
+    }
+
+    .footer_bottom p{
+        padding: 10px 0px;
+    }
+    
+    .portfolio .portfolio-item{
+        margin-bottom: 15px;
+    }
+}

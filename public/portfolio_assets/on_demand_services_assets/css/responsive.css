@@ -1,0 +1,438 @@
+@media screen and (min-width: 1200px) {
+
+    .about .aboutbg {
+        text-shadow: 0px 0px 15px #0000003d;
+    }
+}
+
+
+@media screen and (max-width: 1366px) and (min-width: 1024px) {
+
+    .services .icon-box {
+        padding: 30px;
+        transition: 0.4s;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 991px) {
+    .footer_mobile {
+    position: absolute;
+    margin: 0;
+    padding: 80px 55px;
+    background: url(../img/footer_mobile.png) center center no-repeat;
+    width: 100%;
+    z-index: 2;
+    display: inline-block;
+    height: auto;
+    bottom: 0%;
+}
+.hero-img svg{
+    display: none;
+}
+.squerBox_rightSide1,
+    .squerBox_leftSide2,
+    .squerBox_rightSide3,
+    .squerBox_footerright,
+    .squerBox_footerleft {
+        display: none;
+    }
+}
+@media screen and (max-width: 991px){
+    .hero-img svg {
+        display: none;
+    }
+
+    .squerBox_rightSide1,
+    .squerBox_leftSide2,
+    .squerBox_rightSide3,
+    .squerBox_footerright,
+    .squerBox_footerleft {
+        display: none;
+    }
+    .footer_mobile {
+        position: relative;
+        margin: 0;
+        padding: 0px 0px 0px 0px;
+        background: none;
+        width: 100%;
+        z-index: 2;
+        display: inline-block;
+        height: auto;
+        bottom: 0%;
+    }
+    section {
+        padding: 50px 0;
+    }
+
+    .content.icon-boxes {
+        padding: 0 50px;
+    }
+
+    .footer_mobile h2 {
+        padding-bottom: 20px;
+        color: #fff;
+    }
+
+    #footer .footer_mobile .form-control::placeholder{
+        color: #fff;
+        opacity: 0.7;
+    }
+
+    #footer .footer_mobile .form-control{
+        color: #fff;
+    }
+
+    .countrycode::before {
+        filter: brightness(0) invert(1);
+    }
+
+    .send-mess-btn{
+        background-color: #ff873d !important;
+    }
+
+}
+
+@media screen and (max-width: 768px) and (min-width: 575.98px) {
+    #hero {
+        padding-top: 100px;
+    }
+
+    .hero-img svg {
+        display: none;
+    }
+
+    #hero h1 {
+        font-size: 32px;
+        margin-bottom: 20px;
+        line-height: 42px;
+    }
+
+    #hero span {
+        font-size: 32px;
+    }
+
+    section {
+        padding: 25px 0;
+        overflow: hidden;
+    }
+
+    .squerBox_rightSide1,
+    .squerBox_leftSide2,
+    .squerBox_rightSide3,
+    .squerBox_footerright,
+    .squerBox_footerleft {
+        display: none;
+    }
+
+    .title h2,
+    h4 {
+        font-size: 32px;
+    }
+
+    .portfolio h2 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .about .content h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    .content.icon-boxes {
+        padding: 20px;
+    }
+
+
+    .features h2 {
+        font-size: 28px;
+    }
+
+    #footer .footer-top {
+        padding: 0px 0 0 0;
+        position: relative;
+    }
+
+    .footer_mobile {
+        position: relative;
+        margin: 0;
+        padding: 0px 0px 0px 0px;
+        background: none;
+        width: 100%;
+        z-index: 2;
+        display: inline-block;
+        height: auto;
+        bottom: 0%;
+    }
+
+    .footer_mobile h2 {
+        padding-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 575.98px) and (min-width: 320px) {
+    #hero {
+        text-align: left;
+        padding-top: 80px;
+    }
+
+    .hero-img svg {
+        display: none;
+    }
+
+    #hero h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+        line-height: 40px;
+    }
+
+    #hero span {
+        font-size: 30px;
+    }
+
+    section {
+        padding: 25px 0;
+        overflow: hidden;
+    }
+    #header .logo img {
+        width: 180px;
+    }
+    .squerBox_rightSide1,
+    .squerBox_leftSide2,
+    .squerBox_rightSide3,
+    .squerBox_footerright,
+    .squerBox_footerleft {
+        display: none;
+    }
+
+    .content.icon-boxes {
+        padding: 0 20px;
+    }
+
+    .portfolio h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .portfolio .icon-box h3 {
+        font-weight: 500;
+        margin: 20px 0 8px 0;
+        font-size: 20px;
+    }
+
+    .about {
+        padding-top: 0px;
+    }
+
+    .about .content h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .portfolio p {
+        margin-bottom: 0;
+    }
+
+    .title h2 {
+        text-align: center;
+        padding: 0px 0px 22px 0px;
+        font-size: 30px;
+    }
+
+    .footer_mobile {
+        position: relative;
+        padding: 0;
+        background: none;
+        width: 100%;
+        z-index: 2;
+        display: inline-block;
+        height: auto;
+    }
+
+    .feature .icon-box .heading {
+        padding: 12px 20px;
+    }
+
+    .feature .icon-box .heading h3 {
+        font-size: 22px;
+    }
+
+    #footer .footer-top {
+        padding: 50px 0 0 0;
+        position: relative;
+    }
+
+    .footer_mobile h2 {
+        padding-bottom: 20px;
+    }
+
+    #footer ul li {
+        padding: 7px 0;
+    }
+
+    #footer ul {
+        padding: 15px 0;
+    }
+
+    .zoom-box:hover {
+        -ms-transform: none;
+        -webkit-transform: none;
+        transform: none;
+    }
+    .portfolio .icon-box .icon {
+    padding: 20px;
+    width: 120px;
+    height: 120px;
+}
+}
+
+
+@media(max-width: 425px){
+    #header{
+        top: 10px;
+    }
+}
+
+
+@media (max-width: 320px) {
+
+        #hero {
+        text-align: left;
+        padding-top: 80px;
+    }
+
+    .hero-img svg {
+        display: none;
+    }
+
+    #hero h1 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+#hero p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
+
+    #hero span {
+        font-size: 30px;
+    }
+
+    section {
+        padding: 25px 0;
+        overflow: hidden;
+    }
+    #header .logo img {
+        width: 180px;
+    }
+    .squerBox_rightSide1,
+    .squerBox_leftSide2,
+    .squerBox_rightSide3,
+    .squerBox_footerright,
+    .squerBox_footerleft {
+        display: none;
+    }
+
+    .content.icon-boxes {
+        padding: 0 20px;
+    }
+
+    .portfolio h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .portfolio .icon-box h3 {
+        font-weight: 500;
+        margin: 20px 0 8px 0;
+        font-size: 20px;
+    }
+
+    .about {
+        padding-top: 0px;
+    }
+
+    .about .content h3 {
+    font-size: 24px;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+.about .content p {
+    font-size: 16px;
+    line-height: 23px;
+}
+.team .icon-box {
+    padding: 15px;
+    margin-bottom: 25px;
+}
+.team h3 {
+    font-size: 19px;
+    margin-left: 15px;
+}
+    .portfolio p {
+        margin-bottom: 0;
+    }
+
+    .title h2 {
+        text-align: center;
+        padding: 0px 0px 22px 0px;
+        font-size: 24px;
+    }
+    .title h4 {
+    font-size: 24px;
+}
+
+    .footer_mobile {
+        position: relative;
+        padding: 0;
+        background: none;
+        width: 100%;
+        z-index: 2;
+        display: inline-block;
+        height: auto;
+    }
+
+    .feature .icon-box .heading {
+        padding: 12px 20px;
+    }
+
+    .feature .icon-box .heading h3 {
+        font-size: 22px;
+    }
+
+    #footer .media-body{
+        font-size: 15px;
+    }
+
+    #footer .footer-top {
+        padding: 50px 0 0 0;
+        position: relative;
+    }
+
+    .footer_mobile h2 {
+        padding-bottom: 20px;
+    }
+
+    #footer ul li {
+        padding: 7px 0;
+    }
+
+    #footer ul {
+        padding: 15px 0;
+    }
+
+    .zoom-box:hover {
+        -ms-transform: none;
+        -webkit-transform: none;
+        transform: none;
+    }
+    
+    .portfolio .icon-box .icon {
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+}
+}

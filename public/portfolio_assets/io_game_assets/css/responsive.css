@@ -1,0 +1,434 @@
+@media screen and (max-width: 1600px) and (min-width: 1200px) {
+    .box-img {
+        margin-right: 0px;
+    }
+
+    .p-r-150 {
+        padding-right: 100px;
+    }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 1024px) {
+    .box-img {
+        margin-right: 0px;
+    }
+
+    .p-r-150 {
+        padding-right: 50px;
+    }
+
+    #hero {
+        height: auto;
+    }
+
+    #hero h1 {
+        font-size: 50px;
+    }
+
+    .offer .icon-box h4 {
+        font-size: 20px;
+    }
+
+    .about .content h3 {
+        font-size: 32px;
+    }
+
+    .title h2 {
+        font-size: 32px;
+    }
+
+    .title br {
+        display: none;
+    }
+
+    .title p {
+        font-size: 17px;
+    }
+
+    .custumer h5 {
+        font-size: 22px;
+    }
+
+    .custumer p {
+        font-size: 17px;
+    }
+
+    .footer{
+        padding-top: 80px;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 768px) {
+
+    section {
+        padding: 50px 0;
+    }
+
+    .box-img {
+        margin-right: 0px;
+    }
+
+    .p-r-150 {
+        padding-right: 50px;
+    }
+
+    #hero {
+        height: auto;
+    }
+
+    #hero h1 {
+        font-size: 36px;
+    }
+
+    #hero .p-t-75 {
+        padding-top: 0;
+    }
+
+    .offer .icon-box {
+        margin: 10px;
+    }
+
+    #footer .footer_mobile {
+        margin: 0;
+        padding: 0 0 50px;
+    }
+
+    #hero h6 {
+        font-size: 26px;
+    }
+
+    .offer .icon-box h4 {
+        font-size: 20px;
+    }
+
+    .about .content h3 {
+        font-size: 32px;
+    }
+
+    .title h2 {
+        font-size: 32px;
+    }
+
+    .title br {
+        display: none;
+    }
+
+    .title p {
+        font-size: 17px;
+    }
+
+    .custumer h5 {
+        font-size: 22px;
+    }
+
+    .custumer p {
+        font-size: 17px;
+    }
+
+    .footer{
+        padding-top: 50px;
+    }
+
+}
+
+@media screen and (max-width: 768px) and (min-width: 575.98px) {
+
+    section {
+        padding: 50px 0;
+    }
+
+    .box-img {
+        margin-right: 0px;
+    }
+
+    .hero-text {
+        padding: 0px;
+        text-align: center;
+    }
+
+    .p-r-150 {
+        padding-right: 50px;
+    }
+    .review .single-review .part-text p br{
+        display: none;
+    }
+
+    .footer .footer_bottom p {
+        text-align: center;
+    }
+    #hero {
+        height: auto;
+        padding-top: 110px;
+    }
+    #footer .footer_mobile {
+        margin: 0;
+        padding: 0 0 30px;
+    }
+    #hero h1 {
+        font-size: 55px;
+    }
+
+    #hero .p-t-75 {
+        padding-top: 0;
+    }
+
+    .offer .icon-box {
+        margin: 10px;
+    }
+
+    #hero h6 {
+        font-size: 35px;
+    }
+
+    .offer .icon-box h4 {
+        font-size: 20px;
+    }
+
+    .about .content h3 {
+        font-size: 32px;
+        padding-top: 30px;
+    }
+
+    .title h2 {
+        font-size: 28px;
+    }
+
+    .title br {
+        display: none;
+    }
+
+    .title p {
+        font-size: 17px;
+    }
+
+    .custumer h5 {
+        font-size: 22px;
+    }
+
+    .custumer p {
+        font-size: 17px;
+    }
+
+    .footer{
+        padding-top: 50px;
+    }
+}
+
+@media screen and (max-width: 575.98px){
+
+    #header .logo img {
+        width: 180px;
+    }
+
+    section {
+        padding: 40px 0;
+    }
+
+    .box-img {
+        margin-right: 0px;
+    }
+
+    .hero-text {
+        text-align: center;
+        padding: 0;
+    }
+
+    .footer .footer_bottom p {
+        text-align: center;
+    }
+
+    #about .p-r-150 {
+        padding-right: 0px;
+    }
+
+    #about .p50 {
+        padding: 70px 15px 40px;
+    }
+
+    #hero {
+        height: auto;
+        padding-top: 110px;
+    }
+
+    #hero h1 {
+        font-size: 34px;
+    }
+    .review .single-review .part-text p br{
+        display: none;
+    }
+    #footer .footer_mobile {
+        margin: 0;
+        padding: 30px;
+    }
+    #hero .p-t-75 {
+        padding-top: 0;
+    }
+
+    .offer .icon-box {
+        margin: 10px;
+        padding: 20px;
+    }
+
+
+    #hero h6 {
+        font-size: 20px;
+    }
+
+
+    .portfolio .portfolio-item h3 {
+        font-size: 17px;
+    }
+
+    .offer .icon-box h4 {
+        font-size: 20px;
+    }
+
+    .about .content h3 {
+        font-size: 26px;
+        padding-top: 30px;
+    }
+
+    .title h2 {
+        font-size: 24px;
+    }
+
+    .title h3 {
+        font-size: 22px;
+    }
+
+    .title br {
+        display: none;
+    }
+
+    .title p {
+        font-size: 17px;
+    }
+
+    .custumer h5 {
+        font-size: 20px;
+    }
+
+    .footer .footer_bottom p {
+        text-align: center;
+    }
+    .custumer p {
+        font-size: 17px;
+    }
+
+    .footer{
+        padding-top: 40px;
+    }
+}
+
+
+@media (max-width: 320px) {
+    section {
+        padding: 40px 0;
+    }
+    .review .single-review .part-text p br{
+        display: none;
+    }
+    #footer .footer_mobile {
+        margin: 0;
+        padding: 20px;
+    }
+    .box-img {
+        margin-right: 0px;
+    }
+
+    .footer .footer_bottom p {
+        text-align: center;
+    }
+
+    #about .p-r-150 {
+        padding-right: 0px;
+    }
+    
+    #about .p50 {
+        padding: 70px 15px 40px;
+    }
+
+    #hero {
+        height: auto;
+        padding-top: 110px;
+    }
+
+    #hero h1 {
+        font-size: 28px;
+    }
+
+    #hero .p-t-75 {
+        padding-top: 0;
+    }
+
+    .offer .icon-box {
+        margin: 10px;
+        padding: 15px;
+    }
+
+    #hero h6 {
+        font-size: 18px;
+    }
+
+    .portfolio .portfolio-item h3 {
+        font-size: 17px;
+    }
+
+    .offer .icon-box h4 {
+        font-size: 18px;
+    }
+    .team h3 {
+    font-size: 18px;
+    line-height: 22px;
+    margin-left: 10px;
+}
+    .offer .icon-box p {
+        line-height: 22px;
+        font-size: 16px !important;
+    }
+
+    .team .icon-box {
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+
+    .about .content h3 {
+        font-size: 26px;
+        padding-top: 30px;
+    }
+
+    .title h2 {
+        font-size: 22px;
+    }
+
+    .title h3 {
+        font-size: 20px;
+    }
+
+    .title br {
+        display: none;
+    }
+
+    .title p {
+        font-size: 17px;
+    }
+
+    .custumer h5 {
+        font-size: 20px;
+    }
+
+    .custumer p {
+        font-size: 17px;
+    }
+    .hero-text {
+        padding: 0px;
+        text-align: center;
+    }
+    .box-offer {
+        padding: 0;
+    }
+    .offer.service .icon-box {
+        background: none;
+        padding: 20px;
+    }
+}

@@ -1,0 +1,737 @@
+/* ipad Pro */
+@media screen and (max-width: 1366px){
+
+    .orangeani1, .greenani1, .orangeani2, .greenani2, .greenanismall1, .orangeanismall1, .greenanismall2, .greenanismall3{
+        display: none;
+    }
+
+    .orangeanismall2, .greenanismall4, .greenanismall5, .orangeanismall3, .greenanismall6, .greenanismall7{
+        display: none;
+    }
+
+    .greenanismall7, .orangeanismall4, .greenanismall8{
+        display: none;
+    }
+
+    br {
+        display: none;
+    }
+
+    .team h3 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+    .about .b-r-1:before {
+        display: none;
+    }
+
+    #hero .ani-left {
+        position: absolute;
+        top: 22%;
+        left: -25%;
+    }
+
+    #hero .ani-up {
+        position: absolute;
+        bottom: 9%;
+        right: -5%;
+    }
+}
+
+
+@media screen and (max-width: 1239px){
+    br {
+        display: none;
+    }
+
+    .team h3 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+    .about .b-r-1:before {
+        display: none;
+    }
+
+    #hero .ani-left {
+        position: absolute;
+        top: 21%;
+        left: -32%;
+    }
+
+    #hero .ani-up {
+        position: absolute;
+        bottom: 9%;
+        right: -15%;
+    }
+
+    .techno .techno-box .img-box h4{
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1200px){
+
+    .about figure{
+        float: none;
+    }
+
+    .info .text-box h3{
+        font-size: 22px;
+    }
+
+    .info .text-box p{
+        font-size: 18px;
+    }
+
+    .techno .techno-box .img-box{
+        padding: 25px;
+    }
+    .techno .techno-box .img-box h4{
+        font-size: 18px;
+    }
+
+    .unique .unique-box .img-box h6 {
+        margin: 30px 18px;
+        font-size: 20px;
+    }
+
+    .unique .unique-box .img-box p {
+        font-size: 19px;
+    }
+
+    .section-title h2{
+        font-size: 40px;
+    }
+
+    .section-title p{
+        font-size: 18px;
+    }
+
+    .section-title {
+        padding-bottom: 35px;
+    }
+
+    .info .pro-box > div{
+        padding: 20px;
+    }
+
+    .info .pro-box .info-box h6 i{
+        font-size: 22px;
+    }
+
+    .center-best-sell{
+        padding: 0px 20px; 
+    }
+}
+
+/* ipad */
+@media screen and (max-width: 991px){
+
+    .center-best-sell .sell-box .abso-box{
+            padding: 50px 100px;
+            padding-top: 200px;
+    }
+
+    .center-best-sell .sell-box button{
+        width: 70%;
+    }
+
+    section {
+        padding: 40px 0;
+        overflow: hidden;
+    }
+
+    #hero br {
+        display: none;
+    }
+
+    .about .b-r-1:before {
+        display: none;
+    }
+
+  #hero h1 {
+        font-size: 34px;
+        padding: 20px 0px;
+    }
+    #hero span{
+       font-size: 37px;
+    top: -7px;
+    }
+
+    #hero h2 {
+        font-size: 34px;
+    }
+
+    .title h2 {
+        font-size: 38px;
+    }
+
+    .title P {
+        font-size: 19px;
+        line-height: 29px;
+    }
+
+    .title {
+        padding-bottom: 30px;
+    }
+
+    .team h3 {
+        font-size: 23px;
+    }
+
+    .appstore h3{
+        font-size: 25px;
+    }
+
+    .appstore p{
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .info .content h3 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+    #hero .ani-left {
+        display: none;
+    }
+
+    #hero .ani-up {
+        display: none;
+    }
+
+    .mobile_br br {
+        display: none;
+    }
+
+    .content.icon-boxes {
+        padding: 0;
+    }
+
+
+    #footer .footer_mobile {
+        margin: 0;
+        padding: 0;
+    }
+
+    .about h3{
+        font-size: 22px;
+    }
+
+    .unique .unique-box:first-child{
+        margin-bottom: 30px;
+    }
+
+    .unique .unique-box:nth-child(2){
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width: 767px){
+
+    .center-best-sell .sell-box .abso-box{
+        padding: 50px 30px;
+        padding-top: 200px;
+    }
+
+    section {
+        padding: 30px 0;
+        overflow: hidden;
+    }
+
+    .appstore p{
+        font-size: 18px;
+    }
+
+    .appstore h3{
+        font-size: 20px;
+    }
+
+    .hero-right {
+        text-align: center;
+    }
+
+    #hero br {
+        display: none;
+    }
+
+    .about .b-r-1:before {
+        display: none;
+    }
+
+    #hero h1 {
+        font-size: 34px;
+    }
+
+    #hero h2 {
+        font-size: 30px;
+    }
+
+    #hero img {
+        max-width: 60%;
+    }
+
+    .title h2 {
+        font-size: 34px;
+    }
+
+    .title P {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .title {
+        padding-bottom: 25px;
+    }
+
+    .team h3 {
+        font-size: 23px;
+    }
+
+    .info .content h3 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+    .info br {
+        display: none;
+    }
+
+    .info .content p {
+        font-size: 20px;
+        margin-top: 1rem;
+    }
+
+    #hero .ani-left {
+        display: none;
+    }
+
+    #hero .ani-up {
+        display: none;
+    }
+
+    .mobile_br br {
+        display: none;
+    }
+
+    .content.icon-boxes {
+        padding: 0;
+    }
+
+    .mobile_p_t_40 {
+        padding-top: 60px;
+    }
+
+    .section-title h2{
+        font-size: 35px;
+    }
+
+    .section-title {
+        padding-bottom: 25px;
+    }
+
+    .unique .info h3{
+        font-size: 22px;
+    }
+
+    .unique .info .info-last p{
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 575.98px){
+
+    #header .logo img {
+        width: 180px;
+    }
+
+    section {
+        padding: 20px 0;
+        overflow: hidden;
+    }
+
+    .hero-right {
+        text-align: center;
+    }
+
+    #hero br {
+        display: none;
+    }
+
+    #hero {
+        padding: 100px 0 50px;
+    }
+
+    .about .b-r-1:before {
+        display: none;
+    }
+
+    .info .info-last p{
+        
+    }
+
+    .shape_right_1,
+    .shape_left_2,
+    .shape_right_3,
+    .shape_left_4 {
+        display: none;
+    }
+
+    #hero h1 {
+           font-size: 24px;
+        padding: 15px 0px;
+    }
+    #hero span{
+       font-size: 27px;
+    top: -7px;
+    }
+
+    #hero h2 {
+        font-size: 26px;
+    }
+
+    #hero img {
+        max-width: 60%;
+    }
+
+    .title h2 {
+        font-size: 34px;
+    }
+
+    .title P {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .title {
+        padding-bottom: 35px;
+    }
+
+    .team h3 {
+        font-size: 23px;
+    }
+
+    .info .content h3 {
+        font-size: 36px;
+        line-height: 44px;
+    }
+
+    .info br {
+        display: none;
+    }
+
+    br {
+        display: none;
+    }
+
+    .info .content p {
+        font-size: 19px;
+        margin-top: 0.5rem;
+        line-height: 28px;
+    }
+
+    .info .pro-box .info-box{
+        text-align: center;
+    }
+
+    .info .pro-box .info-box .img-box{
+        text-align: center;
+    }
+
+    .info .pro-box .info-box .img-box img{
+        margin-top: 0px;
+    }
+
+    .owl-nav button.owl-prev {
+      left: 0px;
+    }
+
+    .owl-nav button.owl-next {
+      right: 0px;
+    }
+
+    #hero .ani-left {
+        display: none;
+    }
+
+    #hero .ani-up {
+        display: none;
+    }
+
+    .mobile_br br {
+        display: none;
+    }
+
+    .content.icon-boxes {
+        padding: 0;
+    }
+
+    .mobile_p_t_40 {
+        padding-top: 50px;
+    }
+
+    .portfolio h2 {
+        padding: 20px 0 0px;
+    }
+
+    figure.effect-sarah h2{
+        font-size: 18px;
+    }
+
+    .team h3{
+        font-size: 18px;
+    }
+
+    .title h2{
+        font-size: 20px;
+    }
+
+    .techno .carousel-inner{
+        padding: 0px;
+    }
+
+    .unique .unique-box:nth-child(3){
+        margin-bottom: 30px;
+    }
+
+    section {
+        padding: 30px 0;
+    }
+
+    .section-title h2 {
+        font-size: 25px;
+    }
+
+    .section-title p {
+        font-size: 15px;
+    }
+
+    .section-title {
+        padding-bottom: 20px;
+    }
+    
+    .footer{
+        padding-bottom: 30px;
+    }
+    .about h3{
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 425px) {
+
+    .center-best-sell .sell-box .abso-box{
+        padding-top: 100px;
+    }
+
+    .center-best-sell .sell-box p{
+        font-size: 30px;
+    }
+
+    .center-best-sell .sell-box p{
+        padding: 5px 40px;
+    }
+
+    .center-best-sell .sell-box button{
+        width: 85%;
+    }
+
+    .unique .info h3{
+        font-size: 17px;
+    }
+
+    .unique .info .info-last p{
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 350px) {
+
+    .center-best-sell .sell-box p{
+        font-size: 25px;
+    }
+
+    section {
+        padding: 20px 0;
+        overflow: hidden;
+    }
+
+    .section-title h2 {
+        font-size: 23px;
+    }
+
+    .hero-right {
+        text-align: center;
+    }
+
+    #hero br {
+        display: none;
+    }
+
+    #hero {
+        padding: 100px 0 50px;
+    }
+
+    .about .b-r-1:before {
+        display: none;
+    }
+
+    .shape_right_1,
+    .shape_left_2,
+    .shape_right_3,
+    .shape_left_4 {
+        display: none;
+    }
+
+    #hero h1 {
+        font-size: 24px;
+        margin-bottom: 1.5rem;
+    }
+
+    #hero h2 {
+        font-size: 22px;
+    }
+
+    #hero img {
+        max-width: 60%;
+    }
+
+    .title P {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .title {
+        padding-bottom: 25px;
+    }
+
+    .team h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .team .icon-box {
+        padding: 20px;
+        margin-bottom: 15px;
+    }
+
+    .info .content h3 {
+        font-size: 30px;
+        margin-left: 0;
+        line-height: 38px;
+    }
+
+    .info br {
+        display: none;
+    }
+
+
+    br {
+        display: none;
+    }
+
+    .portfolio .icon-box .icon {
+        padding: 20px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .info .content p {
+        font-size: 18px;
+        margin-top: 0.5rem;
+        line-height: 28px;
+    }
+
+    .portfolio .icon-box h3 {
+        font-size: 17px;
+    }
+
+    #hero .ani-left {
+        display: none;
+    }
+
+    #hero .ani-up {
+        display: none;
+    }
+
+    .mobile_br br {
+        display: none;
+    }
+
+    .content.icon-boxes {
+        padding: 0;
+    }
+
+    .about .card-box p {
+        font-size: 18px;
+    }
+
+    .about .card-box h3 {
+        font-size: 22px;
+        margin-top: 0px;
+    }
+
+    .ui_slider .owl-carousel .owl-stage-outer {
+        height: auto;
+    }
+
+    .portfolio h2 {
+        padding: 0;
+    }
+
+    .mobile_p_t_40 {
+        padding-top: 50px;
+    }
+
+    .ui_slider .owl-carousel .owl-stage-outer:before {
+        display: none;
+    }
+
+    .info .text-box h3{
+        font-size: 18px;
+    }
+
+    .info .text-box p {
+        font-size: 15px;
+    }
+
+    .team h3 {
+        font-size: 15px;
+    }
+
+    #hero p{
+        font-size: 16px;
+    }
+
+    #hero button{
+        font-size: 16px;
+    }
+
+    .title p{
+        font-size: 16px;
+    }
+
+    .techno .techno-box .img-box{
+        padding: 10px;
+    }
+
+    .techno .techno-box .img-box h4{
+        font-size: 15px;
+    }
+
+    .unique .unique-box .img-box {
+        padding: 25px 25px;
+    }
+
+    .unique .unique-box .img-box h6 {
+        font-size: 18px;
+    }
+
+    .unique .unique-box .img-box p {
+        font-size: 15px;
+    }
+
+}

@@ -1,0 +1,359 @@
+@media (max-width: 1200px){
+    .nav-menu a{
+        font-size: 18px;
+        padding: 0px;
+    }
+
+    .section-title h2{
+        font-size: 30px;
+    }
+
+    .section-title h2:after {
+        left: 43%;
+    }
+
+    .section-title p{
+        font-size: 16px;
+    }
+
+    #hero{
+        padding: 180px 0px;
+    }
+
+    #hero h3{
+        font-size: 35px;
+    }
+
+    #hero h1 {
+        font-size: 40px;
+    }
+
+    #hero button{
+        font-size: 20px;
+    }
+
+    .about .section-title h2{
+        font-size: 24px;
+    }
+
+    .appdev .appdev-text > div{
+        padding: 0px 20px;
+    }
+
+    .appdev .appdev-box h4{
+        font-size: 18px;
+    }
+
+    .appdev .appdev-box p{
+        font-size: 15px;
+    }
+
+    .feat .img-box .text-box{
+        padding: 20px 5px;
+    }
+
+    .feat .img-box .text-box h4{
+        font-size: 20px;
+    }
+
+    .feat .img-box .text-box p{
+        font-size: 13px
+    }
+
+    .feat .img-box .text-box button{
+        font-size: 12px;
+    }
+
+    .devlop img{
+        margin: 0px;
+    }
+
+    .devlop h4{
+        font-size: 18px;
+    }
+
+    .devlop h6{
+        font-size: 14px;
+    }
+
+    #footer {
+        position: relative;
+        background-color: #17628e;
+        color: #ffffff;
+    }
+
+    section{
+        padding: 55px 0px;
+    }
+
+}
+
+
+
+
+@media (max-width: 991px){
+
+    .about .section-title h2:after{
+        left: 40%
+    }
+
+    .section-title h2:after {
+        left: 40%;
+    }
+
+    #hero {
+        padding: 130px 0px;
+        padding-bottom: 60px;
+    }
+
+    #hero h3{
+        font-size: 30px;
+    }
+
+    #hero h1 {
+        width: 70%;
+        margin: auto;
+    }
+
+    #hero a img{
+        width: 170px;
+    }
+
+    #hero .hero-text{
+        text-align: center;
+    }
+
+    #hero .img-box img{
+        position: relative;
+        width: 100%;
+        top: 0px;
+    }
+
+    .about .about-text{
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .appdev .appdev-text > div:nth-child(2n-1){
+        text-align: right;
+    }
+
+    .appdev .appdev-text > div:nth-child(n):after{
+        display: block;
+    }
+
+    .appdev .appdev-text > div:nth-child(2n):after{
+        display: none;
+    }
+
+    .feat .img-box .text-box{
+        padding: 20px 20px;
+        padding-top: 30%;
+    }
+
+    .footer .footer-contact{
+        margin-top: 40px;
+    }
+
+    .devlop img{
+        margin-right: 10px;
+    }
+
+    .faqs .faqs-list ul{
+        padding: 0px;
+    }
+
+    #footer .footer_mobile {
+        margin: 2rem 0 0;
+        padding: 0;
+    }
+
+    section{
+        padding: 45px 0px;
+    }
+
+   
+}
+
+
+
+
+@media (max-width: 767px){
+
+    #hero{
+        padding: 120px 0px;
+        padding-bottom: 40px;
+    }
+
+    #hero h3{
+        font-size: 25px;
+    }
+
+    #hero h1 {
+        font-size: 35px;
+    }
+
+    #hero button{
+        padding: 10px 40px;
+        font-size: 25px;
+        margin-top: 25px;
+    }
+
+    .appdev .appdev-box h4 {
+        font-size: 16px;
+    }
+
+    .section-title h2{
+        font-size: 24px;
+    }
+
+    .about .section-title h2:after{
+        left: 36%;
+    }
+
+    .section-title h2:after {
+        left: 36%;
+        transform: scale(0.9);
+    }
+
+    .feat .img-box .text-box{
+        padding: 20px; 
+    }
+
+    .faqs .faqs-list a {
+        font-size: 15px;
+    }
+
+    .faqs .faqs-list p {
+        font-size: 15px;
+        padding: 1rem;
+        padding-top: 0px;
+    }
+
+    #footer .footer_mobile {
+        margin: 2rem 0 0;
+        padding: 0;
+    }
+
+    #footer .footer_mobile {
+        margin: 2rem 0 0;
+        padding: 0;
+    }
+
+    section{
+        padding: 35px 0px;
+    }
+
+
+}
+
+
+
+@media (max-width: 575.98px){
+
+    .section-title h2:after {
+        display: none;
+    }
+
+    .section-title h2{
+        padding-bottom: 0px;
+        font-size: 20px;
+    }
+
+    .section-title p{
+        color: #7f81aed9;
+    }
+
+    #hero{
+        padding: 120px 0px;
+        padding-bottom: 40px;
+    }
+
+    #hero h3{
+        font-size: 15px;
+    }
+
+    #hero h1 {
+        font-size: 30px;
+    }
+
+    #hero a img{
+        width: 130px;
+    }
+
+    #hero button {
+        padding: 8px 35px;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    .about .section-title h2{
+        font-size: 20px;
+    }
+
+    .feat .img-box .text-box{
+        text-align: center;
+    }
+
+    .owl-nav span {
+        font-size: 40px;    
+        position: relative;
+    }
+
+    .appdev .appdev-text > div:nth-child(n){
+        text-align: center;
+    }
+
+    .appdev .appdev-text > div:nth-child(n):after{
+        display: none;
+    }
+
+    section{
+        padding: 20px 0px;
+    }
+
+    .section-title{
+        margin-bottom: 15px;
+    }
+
+    
+}
+
+
+
+
+@media (max-width: 425px){
+
+    #hero h1 {
+        font-size: 19px;
+    }
+
+    #hero button {
+        padding: 5px 25px;
+        font-size: 15px;
+        margin-top: 15px;
+    }
+
+    .features .feat-box .img-box{
+        padding: 0px;
+    }
+
+    .features .feat-box .img-box h5{
+        font-size: 13px;
+    }
+
+}
+
+
+
+
+@media (max-width: 320px) {
+
+    #hero a img{
+        width: 100px;
+    }
+
+    .about .about-top p{
+        font-size: 12px;
+    }
+}
